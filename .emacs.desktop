@@ -1,0 +1,84 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar  2 21:47:12 2015
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/stuff/ruspma/" "~/stuff/ruspma/state/ruspma_state.h" "~/stuff/ruspma/bandit/" "~/stuff/ruspma/reinforce/" "~/stuff/ruspma/bandit/" "~/stuff/ruspma/bandit/ruspma_bandits.h" "~/stuff/ruspma/bandit/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/uladox/stuff/ruspma/state/ruspma_state.h"
+  "ruspma_state.h"
+  'c-mode
+  '(abbrev-mode projectile-mode)
+  163
+  '(47 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/uladox/stuff/ruspma/ruby_proto/q_learn.rb"
+  "q_learn.rb"
+  'ruby-mode
+  '(projectile-mode inf-ruby-minor-mode)
+  502
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/uladox/stuff/ruspma/reinforce/ruspma_q_learn.h"
+  "ruspma_q_learn.h"
+  'c-mode
+  '(abbrev-mode projectile-mode)
+  97
+  '(16 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "reinforce"
+  'dired-mode
+  '(projectile-mode)
+  239
+  '(nil nil)
+  t
+  '("/home/uladox/stuff/ruspma/reinforce/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/uladox/stuff/ruspma/bandit/ruspma_bandits.h"
+  "ruspma_bandits.h"
+  'c-mode
+  '(abbrev-mode projectile-mode)
+  111
+  '(161 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "bandit"
+  'dired-mode
+  '(projectile-mode)
+  240
+  '(nil nil)
+  t
+  '("/home/uladox/stuff/ruspma/bandit/")
+  nil)
+

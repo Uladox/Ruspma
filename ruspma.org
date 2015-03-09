@@ -1,0 +1,92 @@
+RUSPMA & GRAND LISP VARIENT ZERO GOALS AND INFORMATION
+                     by 'Uladox
+                      /~.   \
+                     (  |.   )
+                      \ ; `./
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* ================================================= *...
+*                                                   *...
+*     l*>,               ;.___;.                    *
+** Fun languages
+*     l _l  i   i  .sss  p [] |   v ^   ^   **\     *
+** Lisp basis
+*     l*n   i   i   *n   |.---*   v/ \ / v  0*0     *
+** Inteligent Systems
+*     l  l   iii   sss*  ||       v   v  v  0.0_    *
+** and Grand Ambitions with Neat Sounding Names.
+*                                                   *...
+* ================================================= *...
+* Ruspma Goals and Tasks Tracker
+** Organization Tasks
+*** DONE Make org file
+*** DONE Make stucture use typedef
+    CLOSED: [2015-03-05 Thu 22:50]
+*** TODO Make C files for ugly code
+** Language Algorithm Tasks
+*** DONE Add Haspmaps based off Ruby
+   CLOSED: [2015-03-03 Tue 21:15]
+*** TODO Add Symbols and Keywords
+*** TODO Establish a universal symbol
+    and keyword map
+*** TODO Add "pure closures"
+*** TODO Make tokenizer programmable
+*** TODO Make parser programmable
+** Machine Learning Tasks
+*** Add Supervised Learning
+**** DONE Add Multilayered Perceptrons
+     CLOSED: [2015-03-02 Mon 22:21]
+**** TODO Add Radial Basis Function Networks
+*** Add General Unsupervised Learning
+**** TODO Add Self Organizing Maps
+**** TODO Add k-means
+*** Add Bandit Algorithms
+**** DONE Add Epsilon Greedy and Softmax bandits
+     CLOSED: [2015-03-02 Mon 22:21]
+*** Add Reinforcement learning
+**** TODO Add Q-learning
+**** TODO Add Sarsa 
+*** Add Genetic Programming Tools
+**** TODO Add Lisp language for Genetic Programming
+**** TODO Add Functions for Genetic Algorithms
+** Language Integration Tasks
+*** C Integration Tasks
+*** SBCL Integration Tasks
+* General Information
+** About Ruspma
+   - What is Ruspma?
+     - It stands for ruby lisp machine learning
+       and meaning it just contains any random stuff
+       I feel like implementing.
+   - What is the ultimate goal?
+     - No real goal except as a general place to build
+       off of previous attempts at writing algoritms.
+** About Languages
+*** About Grand Lisp Varient Zero
+    - What is Grand Lisp Varient Zero?
+      - It is a joke and at the same time not.
+       The name does not imply that it is a
+       "better" lisp (which it is not), but
+       that it is built for Aiding in intelligent
+       and grand systems. The zero implies that
+       it is the first in an array of "grand"
+       lisps along with making it sound fancier.
+    - What is the goal of Grand Lisp Varient Zero?
+      - To build a lisp based off of Common Lisp
+       that is integrated with modern machine
+       learning techniques and classical 
+       artificial inteligence. Also so that 
+       it is actually fun to write inteligent and
+       efficient systems in a scalable fashion
+       with concern of power and simplicity
+       over a shallow learning curve. Also
+       to have a human readable lisp ontop
+       of the genetic programming languages
+       ruspma uses.
+*** About Plantain Scheme
+    - What is Plantain Scheme?
+      - It is a joke and also very serious.
+	It is by no means Banana Scheme
+	(http://esolangs.org/wiki/Banana_Scheme)
+	although it is designed with the 
+	"impossible" goal of being a
+	decent genetic programming language.
