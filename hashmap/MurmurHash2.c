@@ -1,3 +1,5 @@
+/* From: https://sites.google.com/site/murmurhash/
+   Thanks for the hash function! */
 unsigned int MurmurHash2 ( const void * key, int len, unsigned int seed )
 {
 	// 'm' and 'r' are mixing constants generated offline.
